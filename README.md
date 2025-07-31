@@ -28,7 +28,6 @@ We used IBM’s **Qiskit Machine Learning** to implement a **Quantum Kernel Ridg
 - Evaluated using:
   - Mean Squared Error (MSE)
   - R² Score  
-- Tools: `scikit-learn`, `matplotlib`, `seaborn`
 
 ---
 
