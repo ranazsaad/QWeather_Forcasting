@@ -89,9 +89,10 @@ Epoch 300/300, Loss: 0.0038
 *The quantum model achieved 14% loss reduction while using only 25% of the features required by the classical model.*
 
 **Final Quantum Metrics:**  
-- **MSE**: 6.2681  
-- **RMSE**: 2.5036  
-- Training Efficiency: 365 samples vs 5000+ in classical approach  
+- Training MSE: 5.9581, R²: 0.8490
+- Testing MSE: 6.3072, R²: 0.8338
+
+Training Efficiency: 365 samples vs 5000+ in classical approach  
 
 *While absolute metrics currently favor classical methods, our quantum model demonstrates:*
 1. Superior feature efficiency (2 vs 8 features)  
