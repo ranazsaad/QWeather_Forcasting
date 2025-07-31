@@ -16,8 +16,7 @@ This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
 This project aims to predict weather  temperature, using both **classical** and **quantum** machine learning techniques. Our goal was to evaluate the viability and performance of quantum-enhanced regression models on real-world weather data.
 
-We used IBM’s **Qiskit Machine Learning** to implement a **Quantum Kernel Ridge Regression** model and benchmarked it against classical models such as Polynomial Regression, Linear Regression, and Random Forest.
-
+We used IBM’s **Qiskit Machine Learning** to implement a **Quantum Kernel Ridge Regression** model and benchmarked it against classical model
 ## Step-by-Step Breakdown
 
 ### 1. Data Preprocessing  
