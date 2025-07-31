@@ -17,7 +17,7 @@ This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
 ## Project Overview
 
-This project investigates the potential of quantum machine learning for temperature forecasting by comparing classical models with quantum approaches.
+This project investigates the potential of quantum machine learning for temperature forecasting by utilizing a dataset containing daily weather observations for Cairo, Egypt
 
 We implemented a **Quantum Neural Network** using Qiskit Machine Learning and benchmarked it against classical linear regression, achieving remarkable results with only 2 key features.
 
