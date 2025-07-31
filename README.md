@@ -17,7 +17,7 @@ This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
 ## Project Overview
 
-This project pioneers quantum-enhanced weather prediction by comparing **classical machine learning** with cutting-edge **quantum machine learning** techniques. Our focus was to demonstrate quantum advantage in predicting temperature .
+This project investigates the potential of quantum machine learning for temperature forecasting by comparing classical models with quantum approaches.
 
 We implemented a **Quantum Neural Network** using Qiskit Machine Learning and benchmarked it against classical linear regression, achieving remarkable results with only 2 key features.
 
@@ -130,10 +130,14 @@ Epoch 300/300, Loss: 0.0038
 ---
 
 ## How to Run the Quantum Project
+
 1. **Clone the repository**
 2.  **Access the Quantum Notebook**  
    - Open `QML_WeatherForcasting.ipynb` in Google Colab
-
+     
+3. **Upload the Dataset**
+   - Download the dataset from [Cairo Weather - Kaggle](https://www.kaggle.com/datasets/yousefelshahat2/cairo-whether).
+   - In Google Colab, upload the CSV file
 
 ## Future Quantum Improvements
 
