@@ -108,7 +108,7 @@ Epoch 300/300, Loss: 0.0038
      
 **Challenge 2 : Training Quantum Models**
    - The quantum model training was unstable and sometimes got stuck in local minima.
-   - **Quantum Solution**: Used AdamW optimizer with Huber loss and a learning rate schedule to help the model learn smoothly.
+   - **Solution**: Used AdamW optimizer with Huber loss and a learning rate schedule to help the model learn smoothly.
 
 
      
