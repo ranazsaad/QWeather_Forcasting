@@ -1,7 +1,16 @@
 # 🌩️ Quantum Weather Forecasting
 
 This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
+##  Team Members
 
+| Name                | Role in Project         
+|---------------------|-------------------------
+|   Rana Saad        | Data Preprocessing  
+|    Sherifa Helmy   | Classical Model devolopment
+|      Yousef Ahmed   | Quantum Model Development       
+|     Jana Mohamed    |  Reporting & Evaluation 
+
+---
 
 ## Project Overview
 
