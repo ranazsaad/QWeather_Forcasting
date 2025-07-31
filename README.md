@@ -11,7 +11,7 @@ We used IBM’s **Qiskit Machine Learning** to implement a **Quantum Kernel Ridg
 
 ## Step-by-Step Breakdown
 
-### 1. 🔧 Data Preprocessing  
+### 1. Data Preprocessing  
 
 - Removed irrelevant/duplicate columns  
 - Identified identical columns and dropped them  
