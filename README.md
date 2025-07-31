@@ -114,7 +114,7 @@ Training Efficiency: 365 samples vs 5000+ in classical approach
 ## Challenges and Solutions
 **Challenge 1 : Quantum Resource Optimization**  
    - Limited qubits required careful feature selection  
-   - **Solution**: Implemented advanced feature importance analysis to identify the 2 most quantum-appropriate features
+   - **Solution**: Implemented feature importance analysis to identify the 2 most quantum-appropriate features
      
 **Challenge 2 : Training Quantum Models**
    - The quantum model training was unstable and sometimes got stuck in local minima.
