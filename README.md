@@ -1,4 +1,4 @@
-# 🌩️ Quantum Weather Forecasting
+# Quantum Weather Forecasting 🌩️☔
 
 This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
@@ -16,12 +16,22 @@ This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
 
 ## Project Overview
+<p align="center">
+  <img src="cairoweatherimage.jpeg" alt="Cairo Weather" width="600">
+</p>
 
-This project investigates the potential of quantum machine learning for temperature forecasting by utilizing a dataset containing daily weather observations for Cairo, Egypt
+
+This project investigates the potential of quantum machine learning for temperature forecasting by utilizing a dataset containing daily weather observations for Cairo, Egypt 
+
+
 
 We implemented a **Quantum Neural Network** using Qiskit Machine Learning and benchmarked it against classical linear regression, achieving remarkable results with only 2 key features.
 
+
+
 We used IBM’s **Qiskit Machine Learning** to implement a **Quantum Kernel Ridge Regression** model and benchmarked it against classical model
+
+
 
 
 ## Step-by-Step Breakdown
