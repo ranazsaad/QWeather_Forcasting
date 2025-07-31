@@ -52,7 +52,6 @@ We implemented a Multiple Linear Regression model
 ### 3. Quantum Data Preprocessing  
 
 - Removed irrelevant/duplicate columns with quantum efficiency in mind  
-- Identified identical columns using quantum-inspired similarity measures  
 - Selected top 2 most impactful features for quantum processing:  
   - `apparent_temperature_mean (°C)`  
   - `et0_fao_evapotranspiration (mm)`  
