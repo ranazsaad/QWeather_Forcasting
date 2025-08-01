@@ -3,16 +3,6 @@
 This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
 
-## Team Members
-
-| Name                | Role in Project         
-|---------------------|-------------------------
-| Rana Saad           | Data Preprocessing  
-| Sherifa Helmy       | Classical Model Development
-| Yousef Ahmed        | Quantum Model Development       
-| Jana Mohamed        | Reporting & Evaluation 
-
----
 
 
 ## Project Overview
@@ -157,3 +147,13 @@ Training Efficiency: 365 samples vs 5000+ in classical approach
 
 
 ---
+
+
+## Team Members
+           
+
+- Rana Saad           
+- Sherifa Helmy       
+- Yousef Ahmed           
+- Jana Mohamed       
+
