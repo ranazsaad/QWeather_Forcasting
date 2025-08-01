@@ -4,14 +4,13 @@ This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
 
 
-
 ## Project Overview
 <p align="center">
   <img src="cairoweatherimage.jpeg" alt="Cairo Weather" width="600">
 </p>
 
 
-This project investigates the potential of quantum machine learning for temperature forecasting by utilizing a dataset containing daily weather observations for Cairo, Egypt 
+This project explores the potential of quantum machine learning (QML) for temperature forecasting by utilizing a dataset containing daily weather observations for Cairo, Egypt 
 
 
 
@@ -130,12 +129,11 @@ Training Efficiency: 365 samples vs 5000+ in classical approach
 
 ---
 
+
 ## How to Run the Quantum Project
 
 1. **Clone the repository**
-2.  **Access the Quantum Notebook**  
-   - Open `QML_WeatherForcasting.ipynb` in Google Colab
-     
+2. Open `QML_WeatherForcasting.ipynb` in Google Colab     
 3. **Upload the Dataset**
    - Download the dataset from [Cairo Weather - Kaggle](https://www.kaggle.com/datasets/yousefelshahat2/cairo-whether).
    - In Google Colab, upload the CSV file
@@ -147,6 +145,7 @@ Training Efficiency: 365 samples vs 5000+ in classical approach
 
 
 ---
+
 
 
 ## Team Members
