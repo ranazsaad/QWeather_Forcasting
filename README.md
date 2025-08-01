@@ -140,6 +140,7 @@ Training Efficiency: 365 samples vs 5000+ in classical approach
 ## Future Quantum Improvements
 
 **Hardware Deployment**  
+   - Potential improvements with an additional complementary feature
    - Migrate to real quantum processors as they become available  
 
 
