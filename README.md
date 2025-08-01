@@ -18,7 +18,6 @@ We implemented a **Quantum Neural Network** using Qiskit Machine Learning and be
 
 
 
-We used IBM’s **Qiskit Machine Learning** to implement a **Quantum Kernel Ridge Regression** model and benchmarked it against classical model
 
 
 
@@ -101,13 +100,13 @@ Training Efficiency: 365 samples vs 5000+ in classical approach
 
 
 ## Challenges and Solutions
-**Challenge 1 : Quantum Resource Optimization**  
-   - Limited qubits required careful feature selection  
-   - **Solution**: Implemented feature importance analysis to identify the 2 most quantum-appropriate features
+**Challenge 1 :  Long Quantum Simulation Time**  
+   - Simulating quantum circuits on classical hardware is computationally expensive and time-consuming
+   - **Solution**: we selected the two most important features to reduce input dimensionality. 
      
 **Challenge 2 : Training Quantum Models**
    - The quantum model training was unstable and sometimes got stuck in local minima.
-   - **Solution**: Used AdamW optimizer with Huber loss and a learning rate schedule to help the model learn smoothly.
+   - **Solution**: Used AdamW optimizer with Huber loss and a learning rate schedule to  stabilize training and help the model learn smoothly.
 
 
      
