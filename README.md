@@ -2,8 +2,16 @@
 
 This project was submitted for the **Quantum AI Hackathon** by **Team 5**.
 
+## Team Members
+           
+
+- Rana Saad           
+- Sherifa Helmy       
+- Yousef Ahmed           
+- Jana Mohamed       
 
 
+---
 ## Project Overview
 <p align="center">
   <img src="cairoweatherimage.jpeg" alt="Cairo Weather" width="600">
@@ -131,28 +139,20 @@ Training Efficiency: 365 samples vs 5000+ in classical approach
 
 ## How to Run the Quantum Project
 
-1. **Clone the repository**
+1. **Download `QML_WeatherForcasting.ipynb` from the  repository**
 2. Open `QML_WeatherForcasting.ipynb` in Google Colab     
 3. **Upload the Dataset**
    - Download the dataset from [Cairo Weather - Kaggle](https://www.kaggle.com/datasets/yousefelshahat2/cairo-whether).
    - In Google Colab, upload the CSV file
 
 ## Future Quantum Improvements
-
-**Hardware Deployment**  
-   - Potential improvements with an additional complementary feature
+1. **Potential improvements with an additional complementary feature**  
+2. **Hardware Deployment**  
    - Migrate to real quantum processors as they become available  
 
 
----
 
 
 
-## Team Members
-           
 
-- Rana Saad           
-- Sherifa Helmy       
-- Yousef Ahmed           
-- Jana Mohamed       
 
